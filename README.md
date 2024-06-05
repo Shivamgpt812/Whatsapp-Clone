@@ -15,9 +15,9 @@ This project is a simple recreation of the WhatsApp Front page, Status page and 
 
 ## Demo
 
-You can view a live demo of the project [here]
+[You can view a live demo of the project \[here\]](https://shivamgpt812.github.io/Whatsapp-Clone/)
 
-## Features
+## Featuress
 
 - Responsive design
 - Mobile-first approach
@@ -35,7 +35,7 @@ You can view a live demo of the project [here]
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/whatsapp-front-page.git
+    git clone https://github.com/Shivamgpt812/Whatsapp-Clone.git
     ```
 
 2. Navigate into the project directory:
@@ -64,15 +64,11 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE] file for details.
 
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out!
 
-- Email: your-email@example.com
-- GitHub: [your-username](https://github.com/your-username)
-
----
-
-*This README was generated with the help of ChatGPT.*
+- Email: shivamgpt812@gmail.com
+- GitHub: [Shivamgpt812](https://github.com/Shivamgpt812)
